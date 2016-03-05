@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
+=======
+    "async": "^1.5.2",
+>>>>>>> 9aad875ee6e9e1c4c38df6c00a59210798c7edb2
     "babel-core": "^6.5.2",
     "babel-loader": "^6.2.3",
     "babel-plugin-transform-object-assign": "^6.5.0",
